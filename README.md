@@ -16,11 +16,9 @@ Before proceeding with the integration, make sure you have the following:
 
 2. Copy the code snippet from `snippet.php` and paste it into your theme's `functions.php` file or in a custom plugin file.
 
-3. Replace the placeholders in the code snippet with your actual Sendy installation URL, list ID, and API key.
+3. Replace the placeholders in the code snippet with your actual Sendy `installation URL`, `list ID`, and `API key`.
 
 4. Save the changes to the file.
-
-5. Upload the modified theme or plugin file to your WordPress website.
 
 ## Usage
 
