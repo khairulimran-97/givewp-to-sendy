@@ -10,9 +10,9 @@ function subscribe_to_sendy_list( $payment_id, $payment_data ) {
     $name = $user_info['first_name'] . ' ' . $user_info['last_name'];
 
     // Sendy API endpoint and credentials
-    $sendy_url = 'https://newsletter.aplikasiniaga.com/subscribe';
-    $list_id = 'tA6ohjmxlfgTGhqsAFcVlw';
-    $api_key = 'X5ZPEnCj8xpPaZWJlxxb';
+    $sendy_url = 'https://your_sendy_installation/subscribe';
+    $list_id = 'list_id';
+    $api_key = 'api_key';
     
     // Prepare the data to be sent to Sendy
     $data = array(
