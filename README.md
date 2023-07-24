@@ -2,6 +2,8 @@
 
 This repository provides code snippets and instructions for integrating GiveWP, a WordPress donation plugin, with Sendy, a self-hosted email newsletter application, to allow users to subscribe to email lists during the donation process.
 
+![image](https://github.com/khairulimran-97/givewp-to-sendy/assets/105085586/6f38120b-2b1f-4d59-8e53-2095447c629d)
+
 ## Prerequisites
 
 Before proceeding with the integration, make sure you have the following:
