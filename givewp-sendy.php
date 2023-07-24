@@ -20,7 +20,8 @@ function subscribe_to_sendy_list( $payment_id, $payment_data ) {
         'email' => $email,
         'list' => $list_id,
         'boolean' => 'true', // Set to 'true' to confirm subscription
-        'api_key' => $api_key
+        'api_key' => $api_key,
+        'referrer' => get_home_url()
     );
 
     // Make the API request to subscribe the user to the Sendy list
